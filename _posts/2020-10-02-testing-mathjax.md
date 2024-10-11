@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Projects
-tags: mathjax
+tags: kini
 math: true
-date: 03/2023 - 07/2023 15:32 +0800
+date: 03/2023 - 11/2023 15:32 +0800
 ---
 
 
