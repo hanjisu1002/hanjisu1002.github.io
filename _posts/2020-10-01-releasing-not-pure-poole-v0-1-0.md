@@ -1,10 +1,23 @@
 ---
 layout: post
-title: Releasing Not Pure Poole v0.1.0
+title: Experience
 date: 2023-02-01 13:56 +0800
 ---
-The Jekyll theme **Not Pure Poole** v0.1.0 was released!
 
-Not Pure Poole is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
 
-For more information about this theme, you can read the [README](https://github.com/vszhub/not-pure-poole/blob/master/README.md) file.
+**Private Math Tutor(Calculus) for High school Seniors**
+
+Provided one-on-one tutoring to high school seniors, focusing on calculus concepts.
+
+Developed personalized lesson plans based on each student's grades, helping students prepare for national exams.
+
+Simplified complex mathematical theories to improve students' comprehention and problem-solving skills.
+
+
+**Lead Vocalist, School Band Club of AI BAND CLUB**
+
+Served as the lead vocalist for the band of AI major, performing various genres at school events and concerts.
+
+Gained experiences in stage presence, vocal techniques, and crowd engagement through live performances.
+
+Played a key role in organizing and promoting concerts, improving teamwork, creating posters, and communication.
