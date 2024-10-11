@@ -16,3 +16,5 @@ date: 03/2023 - 11/2023 15:32 +0800
 - Developed key functionalities of the website using Firebase for back-end management such as shopping cart, wishlist, and user profile pages, enhancing user experience through seamless integration and performance
 
 - Tools Used: Javascript(React), html
+
+"kini.vervel.app"
