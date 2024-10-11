@@ -20,11 +20,16 @@ Linear Algebra and Its Application, Probability and Stastics.
 
 
 
+
+
 **Research Interests**
 
 
 Natural Language Processing : interested in dealing with languages and logistics
 (eager to explore new fields and expand my expertise)
+
+
+
 
 
 
