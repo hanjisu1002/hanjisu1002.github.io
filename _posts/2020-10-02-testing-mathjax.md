@@ -1,17 +1,18 @@
 ---
 layout: post
-title: Testing MathJax
+title: Projects
 tags: mathjax
 math: true
-date: 2020-10-02 15:32 +0800
+date: 03/2023 - 07/2023 15:32 +0800
 ---
-Not Pure Poole supports [MathJax](https://www.mathjax.org/). You can enable it on a page by setting `math: true` in the front matter.
 
-An inline math: \\\(E=mc^2\\\).
 
-A display math:
+**Web Developer and Project Lead**
 
-$$
-i\hbar \frac{\partial \Psi}{\partial t} = -\frac{\hbar^2}{2m}
-\frac{\partial^2 \Psi}{\partial x^2} + V \Psi
-$$
+- Contributed the core concept of the project, focusing on simplifying online shopping for senior citizens in rural areas with limited access to markets and creating collaborative shopping and delivery platform to reduce costs
+
+- Conducted in-person interviews to gather valuable insights into shopping habits and preferences of elderly community members
+
+- Developed key functionalities of the website using Firebase for back-end management such as shopping cart, wishlist, and user profile pages, enhancing user experience through seamless integration and performance
+
+- Tools Used: Javascript(React), html
