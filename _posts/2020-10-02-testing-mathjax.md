@@ -17,4 +17,3 @@ date: 03/2023 - 11/2023 15:32 +0800
 
 - Tools Used: Javascript(React), html
 
-"kini.vervel.app"
