@@ -1,9 +1,7 @@
 - title: Email
-  url: mailto://hanjisu1002@yonsei.ac.kr
+  url: mailto:hanjisu1002@yonsei.ac.kr
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/vszhub
-  icon: fab fa-twitter
+
 - title: GitHub
   url: https://github.com/hanjisu1002/hanjisu1002.git.io
   icon: fab fa-github
