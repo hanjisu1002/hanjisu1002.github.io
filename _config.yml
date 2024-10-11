@@ -2,10 +2,10 @@
 title: Han Jisu
 description: Yonsei University undergraduate student in AI major
 url: https://vszhub.github.io
-avatar: /avatar.jpeg
+avatar: /website_selfie.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /website_background.jpeg
 
 # Gems
 plugins:
