@@ -3,6 +3,12 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+**Education** 
+Yonsei University (undergraduate) - Major in Artificial Intellegence.
+Coursework : Computer Programming, Object Oriented Programming, Data Structure, Discrete Mathematics, 
+Linear Algebra and Its Application, Probability and Stastics.
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+**Research Interests**
+Natural Language Processing : interested in dealing with languages and logistics
+(eager to explore new fields and expand my expertise)
+
